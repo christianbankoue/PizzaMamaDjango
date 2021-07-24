@@ -1,0 +1,16 @@
+body {
+    background: url("./images/menu_background.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+img#small_logo {
+    margin-top: 25px;
+    margin-left: 35px;
+}
+
+h1, li {
+    color:blue;
+}
